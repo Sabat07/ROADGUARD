@@ -1,0 +1,5 @@
+reports.json
+__pycache__/
+.env
+uploads/
+*.py[cod]
